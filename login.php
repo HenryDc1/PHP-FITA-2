@@ -1,5 +1,5 @@
 <h2>Login</h2>
-<p>Modificacion git</p>
+<p>Modificacion git2</p>
 <form >
     <input type="text" name="user" placeholder="user">
     <br>
